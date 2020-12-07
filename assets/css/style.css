@@ -58,7 +58,6 @@ p {
     background-size: cover;
     background-position: center;
    position: relative;
-   overflow: auto;
 }
 
 .float-left {
